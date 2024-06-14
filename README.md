@@ -1,4 +1,5 @@
 # User Cards React Application
+![alt text](<demostracion.gif>)
 
 ## Descripción
 
@@ -10,6 +11,7 @@ Este proyecto es una aplicación de React que muestra una lista de usuarios en f
 - Buscar usuarios por nombre.
 - Mostrar detalles adicionales al pasar el mouse sobre una tarjeta.
 - Diseño responsivo con Flexbox y CSS.
+
 
 ## Tecnologías Utilizadas
 
