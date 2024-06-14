@@ -1,5 +1,5 @@
 # User Cards React Application
-![alt text](<demostracion.gif>)
+![alt text](</public/demostracion.gif>)
 
 ## Descripción
 
@@ -13,11 +13,13 @@ Este proyecto es una aplicación de React que muestra una lista de usuarios en f
 - Diseño responsivo con Flexbox y CSS.
 
 
-## Tecnologías Utilizadas
+##  Recursos
 
 - React
 - CSS
 - Fetch API para obtener datos
+- Font Awesome
+- Google Fonts
 
 ## Instalación
 
